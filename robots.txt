@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jetstech.com.br/sitemap.xml
